@@ -4,7 +4,7 @@
 |:---------------------------|
 | This design is still work in process. PCB has been confirmed to work on breadboard, but actual PCB is still in mail. After the PCB has been confirmed to be functioning properly, I will add BOM and design an enclosure for it. |
 
-![KiCAD PCB render.](/images/pcb_assembled.jpg)
+![KiCAD PCB render.](/images/metronome_pcb.png)
 
 ## Description
 
